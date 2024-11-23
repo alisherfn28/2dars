@@ -1,0 +1,13 @@
+#car {
+  width: 300px;
+  gap: 5px;
+  padding: 5px 15px;
+  background-color: aqua;
+  border-radius: 10px;
+}
+
+p {
+  color: red;
+  font-size: 20px;
+  font-weight: 800;
+}
